@@ -1,0 +1,8 @@
+#EXTINF:-1 tvg-id="HBO.th" tvg-logo="https://imgur.com/TIViuls.png" group-title="ช่องหนัง ™", HBO ™
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9c5735afb4fd402580360aed8364469c:128d55d9ac2b47ad85f86b5d08320179
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/103/103.mpd
+
